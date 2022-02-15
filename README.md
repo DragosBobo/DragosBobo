@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DragosBobo
 - 👀 I’m interested in IT, softawre development , personal development , web dev , electronics and sports ;
-- 🌱 I’m currently learning React and Angular ;
+- 🌱 I’m currently learning React and Angular and Git/Github;
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : dragos.boboluta@yahoo.com 
 
