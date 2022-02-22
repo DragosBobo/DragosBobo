@@ -2,6 +2,7 @@
 - 👀 I’m interested in IT, softawre development , personal development , web dev , electronics and sports ;
 - 🌱 I’m currently learning React , Angular and some :)  Git/Github;
 - 💞️ I’m looking to collaborate on ...
+- just started a new web dev course , lets see what will going on :)
 - 📫 How to reach me : dragos.boboluta@yahoo.com 
 
 <!---
